@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+<title id="title">Ziad Abbas — Midnight / 19</title><desc id="desc">Animated dark blue developer identity banner with orbital graphics and scanning lines.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#070B14"/><stop offset=".58" stop-color="#0B1324"/><stop offset="1" stop-color="#12244B"/></linearGradient>
+ <linearGradient id="blue"><stop stop-color="#72D5FF"/><stop offset="1" stop-color="#456BFF"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#265FFF" stop-opacity=".24"/><stop offset="1" stop-color="#265FFF" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#6387D6" stroke-opacity=".085"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="998" height="338" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1000" height="340" fill="url(#bg)"/><rect width="1000" height="340" fill="url(#grid)"/>
+ <ellipse cx="812" cy="162" rx="300" ry="245" fill="url(#halo)"/>
+ <path d="M0 68H28 M0 272H28 M972 68H1000 M972 272H1000" stroke="#57A2FF" stroke-width="2" opacity=".55"/>
+ <path d="M44 28H220 M44 28V45 M956 28H900 M956 28V45 M44 312H100 M44 312V295 M956 312H780 M956 312V295" stroke="#4271C6" fill="none" opacity=".55"/>
+ <g font-family="monospace" font-size="13" letter-spacing="2.1" fill="#819BC6"><text x="60" y="60">INDEPENDENT DEVELOPER / EG</text><text x="940" y="60" text-anchor="end">PROFILE_019</text></g>
+ <g font-family="Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-3"><text x="54" y="142" font-size="81" fill="#F4F7FF">ZIAD</text><text x="54" y="220" font-size="81" fill="url(#blue)">ABBAS<tspan fill="#F4F7FF">.</tspan></text></g>
+ <g font-family="monospace"><text x="60" y="253" font-size="15" letter-spacing="1.6" fill="#C5D4F0">SOFTWARE ENGINEER  /  PRODUCT BUILDER</text><text x="60" y="290" font-size="13" letter-spacing="1.4" fill="#72D5FF">&gt; BUILDING SINCE 2019</text><rect x="263" y="278" width="8" height="14" fill="#72D5FF"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.48;.5;.98;1" dur="1.35s" repeatCount="indefinite"/></rect></g>
+ <g transform="translate(785 171)">
+  <circle r="117" fill="#0A1224" fill-opacity=".4" stroke="#28477D"/><circle r="100" fill="none" stroke="#1D355B" stroke-dasharray="2 7"/><circle r="74" fill="none" stroke="#2E5795"/>
+  <path d="M-134 0H-117 M117 0H134 M0-134V-117 M0 117V134" stroke="#638BCB"/>
+  <g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/><circle r="117" fill="none" stroke="#5D9BFF" stroke-width="2" stroke-dasharray="98 637"/><circle cx="117" r="4" fill="#A0DEFF"/><circle cy="-117" r="2" fill="#5D9BFF"/></g>
+  <g><animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="12s" repeatCount="indefinite"/><circle r="74" fill="none" stroke="#72D5FF" stroke-opacity=".8" stroke-width="2" stroke-dasharray="63 402"/><circle cx="74" r="3.5" fill="#72D5FF"/></g>
+  <path d="M0-50 43-25 43 25 0 50-43 25-43-25Z" fill="#0B1B38" stroke="#4C7DE1" stroke-width="1.5"/>
+  <text x="0" y="15" text-anchor="middle" fill="#E0EDFF" font-size="42" font-family="monospace" font-weight="bold">19</text>
+  <circle cx="94" cy="-77" r="3" fill="#6ED8FF"><animate attributeName="opacity" values=".25;1;.25" dur="2.5s" repeatCount="indefinite"/></circle>
+ </g>
+ <path d="M531 103H610L655 148H668 M535 240H606L650 196H668" fill="none" stroke="#3966AD" stroke-opacity=".5"/>
+ <circle cx="531" cy="103" r="3" fill="#63B7FF"/><circle cx="535" cy="240" r="3" fill="#63B7FF"/>
+ <g font-family="monospace" font-size="11" fill="#819BC6"><text x="940" y="302" text-anchor="end">SYSTEM ONLINE</text><circle cx="837" cy="298" r="3" fill="#72D5FF"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle></g>
+ <rect width="1000" height="2" fill="#71C8FF" opacity=".10"><animate attributeName="y" from="-2" to="340" dur="7s" repeatCount="indefinite"/></rect>
+</g><rect x="1" y="1" width="998" height="338" rx="18" fill="none" stroke="#35517C" stroke-width="1.5"/>
+</svg>
