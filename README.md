@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Founder @ <a href="https://zimos.co">zimos.co</a> · Tanta, Egypt<br/>
+  Founder @ <a href="https://zimos.co">zimos.co</a> · Egypt<br/>
   C# · C++ · JS · Python · Rust · Kotlin · SQL · PHP<br/>
   <a href="mailto:ziadabbas27@gmail.com">Email</a> ·
   <a href="https://github.com/ziadabbas19">GitHub</a> ·
