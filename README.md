@@ -1,255 +1,407 @@
+<!-- ═══════════════════ HERO ═══════════════════ -->
+
 <div align="center">
 
+<img src="./hero.svg" width="100%" alt="Ziad Abbas — zgAllin"/>
+
+<br/>
+
+<a href="mailto:ziadabbas27@gmail.com">
+<img width="38" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://x.com/ziadabbas19">
+<img width="38" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ziadabbas19">
+<img width="38" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
+</a>
+&nbsp;
 <a href="https://github.com/ziadabbas19">
-  <img src="./hero.svg" width="100%" alt="Ziad Abbas Hero Banner"/>
+<img width="38" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<a href="https://zimos.co"><b>Z I M O S . C O</b></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ziadabbas19&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<!-- ═══════════════════ IDENTITY ═══════════════════ -->
+
+## 01 — Identity
+
+<table>
+<tr>
+<td width="68%" valign="middle">
+
+<h3>Engineering meets entrepreneurship.</h3>
+
+<p>
+I'm a Full-Stack Software Developer and Founder of
+<a href="https://zimos.co"><b>Zimos</b></a>.
+</p>
+
+<p>
+My work revolves around software engineering, system architecture,
+backend development, and building digital products that bridge
+technology and business.
+</p>
+
+<p>
+I build with purpose, challenge conventional thinking,
+and turn complex ideas into practical solutions.
+</p>
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img width="120" src="https://skillicons.dev/icons?i=linux,vscode,bash,github&theme=dark&perline=2" alt="Development Environment"/>
+
+<br/><br/>
+
+<b>FEDORA LINUX</b>
+
+<br/>
+
+<sub>DEVELOPMENT ENVIRONMENT</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════ TECHNOLOGIES ═══════════════════ -->
+
+## 02 — Technical Skills
+
+<p align="center">
+
+<a href="#02--technical-skills">
+<img width="540" src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,rust,kotlin,php,html,css,nodejs,dotnet&theme=dark&perline=12" alt="JavaScript, TypeScript, Python, C++, C#, Rust, Kotlin, PHP, HTML, CSS, Node.js, .NET"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Software+Developer;Founder+%40+Zimos;Building+Scalable+Products;Software+Architecture+%7C+Backend+Systems;Professional+Execution+With+Product+Vision" alt="Typing Animation"/>
+<a href="#02--technical-skills">
+<img width="540" src="https://skillicons.dev/icons?i=react,nextjs,express,vite,redux,tailwind,postgres,mongodb,redis,docker,git,linux&theme=dark&perline=12" alt="React, Next.js, Express, Vite, Redux, Tailwind CSS, PostgreSQL, MongoDB, Redis, Docker, Git, Linux"/>
+</a>
+
+</p>
+
+<p align="center">
+<sub>
+SQL · PostGIS · EF Core · SignalR · Sequelize · Capacitor
+<br/>
+Podman · Railway · Cloudflare · JWT · Jest · Fedora
+</sub>
+</p>
 
 <br/>
 
-<a href="https://zimos.co">Website</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:ziadabbas27@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://x.com/ziadabbas19">X</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://instagram.com/ziadabbas19">Instagram</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/ziadabbas19">GitHub</a>
+<details>
+<summary><b>Explore Engineering Expertise</b></summary>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ziadabbas19&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views"/>
+| Domain | Expertise |
+|:---|:---|
+| Software Architecture | Multi-Tenant SaaS, Modular Monolith, Monorepo |
+| Backend Engineering | REST APIs, Business Logic, Background Jobs |
+| Frontend Engineering | SSR, SPA, Responsive UI, State Management |
+| Database Engineering | SQL, Data Modeling, ORM, Transactions |
+| Security | Authentication, Authorization, JWT, RBAC |
+| Real-Time Systems | SignalR, GPS Tracking, Live Updates |
+| Mobile Development | Android, Capacitor, PWA |
+| Infrastructure | Docker, Podman, Cloud Deployment |
+| Testing | Unit Testing, Integration Testing, API Testing |
+| Product Engineering | SaaS, E-Commerce, CRM, Enterprise Systems |
 
-</div>
+</details>
 
----
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## About
+## 03 — Selected Work
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td width="50%" valign="top">
 
-I build software where product vision meets engineering execution.
+<h2 align="center">ZIMOS</h2>
 
-My work focuses on full-stack development, backend systems,
-software architecture, and digital products built to scale.
+<p align="center">
+<sub>SAAS / COMMERCE / WEBSITE BUILDER</sub>
+</p>
 
-I’m the **Founder of [Zimos](https://zimos.co)**,
-where I work on building structured software experiences,
-business systems, and modern product workflows.
+<p align="center">
+<a href="https://zimos.co">
+<img width="230" src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,docker&theme=dark&perline=6" alt="Zimos Technologies"/>
+</a>
+</p>
+
+<p>
+A multi-tenant commerce platform empowering businesses
+to build websites, launch online stores, and manage
+their digital presence.
+</p>
+
+<ul>
+<li>Website and storefront builder</li>
+<li>Merchant and platform dashboards</li>
+<li>Multi-tenant architecture</li>
+<li>Inventory and order management</li>
+<li>Payment and business workflows</li>
+<li>Custom domains and SEO</li>
+</ul>
+
+<p align="center">
+<b>FOUNDER</b>
+</p>
+
+<p align="center">
+<a href="https://zimos.co"><b>LIVE PLATFORM ↗</b></a>
+<br/><br/>
+<a href="https://github.com/ziadabbas19/zimos-frontend">Frontend</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/ziadabbas19/zimos">Backend</a>
+</p>
 
 </td>
-<td valign="top" width="42%">
+<td width="50%" valign="top">
 
-```ts
-const ziad = {
-  id: 19,
-  role: "Full-Stack Software Developer",
-  venture: "Founder @ Zimos",
-  location: "Egypt",
-  environment: "Fedora Linux",
-  focus: [
-    "Software Engineering",
-    "System Architecture",
-    "Backend Systems",
-    "Product Development"
-  ]
+<h2 align="center">ORIGINAL CRM</h2>
+
+<p align="center">
+<sub>ENTERPRISE / FIELD FORCE / GEOLOCATION</sub>
+</p>
+
+<p align="center">
+<a href="https://github.com/ziadabbas19/original-pharma-crm">
+<img width="230" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,redis&theme=dark&perline=6" alt="CRM Technologies"/>
+</a>
+</p>
+
+<p>
+An enterprise CRM platform designed to connect
+pharmaceutical field teams, supervisors,
+and managers through a centralized system.
+</p>
+
+<ul>
+<li>Field-force and visit management</li>
+<li>Organizational hierarchy</li>
+<li>GPS and geospatial tracking</li>
+<li>Role-based access control</li>
+<li>Real-time activity monitoring</li>
+<li>Web and Android applications</li>
+</ul>
+
+<p align="center">
+<b>SOFTWARE DEVELOPMENT</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/ziadabbas19/original-pharma-crm">
+<b>EXPLORE REPOSITORY ↗</b>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://github.com/ziadabbas19?tab=repositories">
+<sub>VIEW ALL REPOSITORIES ↗</sub>
+</a>
+</p>
+
+<!-- ═══════════════════ ENGINEERING ═══════════════════ -->
+
+## 04 — Engineering Philosophy
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<h3>Architecture</h3>
+
+<sub>
+Scalable systems
+<br/>
+Modular design
+<br/>
+Maintainable structure
+</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Engineering</h3>
+
+<sub>
+Backend systems
+<br/>
+Data integrity
+<br/>
+Performance
+</sub>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>Product</h3>
+
+<sub>
+Digital experiences
+<br/>
+Business solutions
+<br/>
+Meaningful innovation
+</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════ PERSONALITY ═══════════════════ -->
+
+## 05 — Beyond the Code
+
+```typescript
+const zgAllin = {
+    signature: 19,
+    identity: "Ziad Abbas",
+    role: "Software Developer",
+    venture: "Founder @ Zimos",
+
+    environment: {
+        os: "Fedora Linux",
+        editor: "VS Code"
+    },
+
+    interests: [
+        "Software Engineering",
+        "System Architecture",
+        "Entrepreneurship"
+    ],
+
+    hobbies: [
+        "Boxing",
+        "Kickboxing",
+        "Music",
+        "Heavy Metal"
+    ],
+
+    philosophy: "Order through chaos."
 };
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## Technical Arsenal
-
-<div align="center">
-
-<img width="520" src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,rust,kotlin,php,html,css,nodejs,dotnet&theme=dark&perline=12" alt="Technical Skills Row 1"/>
-
-<br/>
-
-<img width="520" src="https://skillicons.dev/icons?i=react,nextjs,express,vite,redux,tailwind,postgres,redis,mongodb,docker,git,linux&theme=dark&perline=12" alt="Technical Skills Row 2"/>
-
-<br/><br/>
-
-<sub>SQL · PostGIS · EF Core · SignalR · Sequelize · Capacitor · Podman · Railway · Cloudflare · JWT · Jest · Fedora</sub>
-
-</div>
-
----
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Zimos
-
-<sub>PLATFORM · COMMERCE · WEBSITE BUILDER</sub>
-
-<br/><br/>
-
-<img width="220" src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,docker&theme=dark&perline=6" alt="Zimos Stack"/>
-
-<br/><br/>
-
-A platform focused on enabling businesses to build websites,
-launch stores, and manage their digital presence through a
-structured and scalable system.
-
-**Focus**
-- Storefronts
-- Merchant dashboards
-- Orders and inventory
-- Platform workflows
-- Multi-tenant architecture
-
-<a href="https://zimos.co">Live Platform</a>  
-<a href="https://github.com/ziadabbas19/zimos-frontend">Frontend Repository</a>  
-<a href="https://github.com/ziadabbas19/zimos">Backend Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### Original Pharma CRM
-
-<sub>ENTERPRISE · CRM · FIELD FORCE</sub>
-
-<br/><br/>
-
-<img width="220" src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,postgres,redis&theme=dark&perline=6" alt="Original Pharma Stack"/>
-
-<br/><br/>
-
-An enterprise CRM built for pharmaceutical field operations,
-designed to connect teams, structure workflows, and support
-real-time activity management.
-
-**Focus**
-- Field force operations
-- Access control
-- Geolocation workflows
-- Mobile support
-- Live activity handling
-
-<a href="https://github.com/ziadabbas19/original-pharma-crm">Explore Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Focus
-
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
-<b>Architecture</b>
-<br/><br/>
-Multi-Tenant SaaS
+<td width="25%" align="center">
+<b>BOXING</b>
 <br/>
-Modular Systems
-<br/>
-Monorepo Structure
+<sub>Discipline</sub>
 </td>
-<td align="center" width="33%">
-<b>Backend</b>
-<br/><br/>
-REST APIs
+<td width="25%" align="center">
+<b>KICKBOXING</b>
 <br/>
-Authentication
-<br/>
-Business Logic
+<sub>Precision</sub>
 </td>
-<td align="center" width="33%">
-<b>Product Engineering</b>
-<br/><br/>
-Enterprise Systems
+<td width="25%" align="center">
+<b>MUSIC</b>
 <br/>
-CRM Platforms
+<sub>Expression</sub>
+</td>
+<td width="25%" align="center">
+<b>HEAVY METAL</b>
 <br/>
-Commerce Solutions
+<sub>Intensity</sub>
 </td>
 </tr>
 </table>
 
 </div>
 
----
+<!-- ═══════════════════ ACTIVITY ═══════════════════ -->
 
-## Activity
+## 06 — Development Activity
+
+<p align="center">
+
+<a href="https://github.com/ziadabbas19">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadabbas19&bg_color=101722&color=91C5FF&line=4F83FF&point=E4F1FF&area=true&area_color=1E3A6D&hide_border=true&custom_title=Development%20Activity" alt="Contribution Activity"/>
+</a>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/ziadabbas19?tab=repositories">Repositories</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/ziadabbas19?tab=overview">Contributions</a>
+&nbsp; / &nbsp;
+<a href="https://github.com/ziadabbas19?tab=followers">Followers</a>
+</p>
+
+<!-- ═══════════════════ CONTACT ═══════════════════ -->
+
+## 07 — Establish Connection
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ziadabbas19&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true" alt="GitHub Stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=ziadabbas19&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<a href="mailto:ziadabbas27@gmail.com">
+<img width="44" src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/ziadabbas19">
+<img width="44" src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="X"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/ziadabbas19">
+<img width="44" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/ziadabbas19">
+<img width="44" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadabbas19&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&area_color=1E3A8A&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## Beyond Work
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<b>Boxing</b>
-<br/><br/>
-Discipline
-</td>
-<td align="center" width="33%">
-<b>Kickboxing</b>
-<br/><br/>
-Control
-</td>
-<td align="center" width="33%">
-<b>Music</b>
-<br/><br/>
-Intensity
-</td>
-</tr>
-</table>
+<a href="mailto:ziadabbas27@gmail.com">
+<sub>ziadabbas27@gmail.com</sub>
+</a>
 
 <br/>
 
-<sub>Precision in execution. Discipline in process. Intensity in vision.</sub>
+<a href="https://zimos.co">
+<sub>ZIMOS.CO</sub>
+</a>
 
 </div>
+
+<!-- ═══════════════════ SIGNATURE ═══════════════════ -->
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=60&lines=CREATE.+BREAK.+REBUILD.+EVOLVE.;BUILD+WHAT+MATTERS.;ENGINEER+WITH+INTENT." alt="Footer Typing Animation"/>
+<img width="650" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4500&pause=2500&color=71B5FF&center=true&vCenter=true&width=650&height=50&lines=CREATE.+BREAK.+REBUILD.+EVOLVE.;ORDER+THROUGH+CHAOS.;BUILD+WHAT+DOES+NOT+EXIST." alt="Animated Signature"/>
 
 <br/>
 
-<h3>19</h3>
+<h2>zgAllin / 19</h2>
 
-<sub>
-<a href="mailto:ziadabbas27@gmail.com">ziadabbas27@gmail.com</a>
-</sub>
+<sub>ENGINEER WITH INTENT.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:172554,100:2563EB&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101722,50:172554,100:2563EB&height=100&section=footer" alt="Footer"/>
+
 </div>
