@@ -38,8 +38,8 @@
 ## 02 / Technical Skills
 
 <p align="center">
-<a href="#02--technical-skills"><img width="520" src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs,rust,kotlin,php,html,css,nodejs,dotnet&amp;theme=dark&amp;perline=12" alt="JavaScript, TypeScript, Python, C++, C#, Rust, Kotlin, PHP, HTML, CSS, Node.js, .NET"/></a><br/>
-<a href="#02--technical-skills"><img width="520" src="https://skillicons.dev/icons?i=react,nextjs,express,vite,redux,tailwind,postgres,mongodb,redis,docker,git,linux&amp;theme=dark&amp;perline=12" alt="React, Next.js, Express, Vite, Redux, Tailwind, PostgreSQL, MongoDB, Redis, Docker, Git, Linux"/></a>
+<a href="#02--technical-skills"><img width="520" src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,cs,rust,kotlin,php,html,css,nodejs,dotnet&amp;theme=dark&amp;perline=13" alt="JavaScript, TypeScript, Java, Python, C++, C#, Rust, Kotlin, PHP, HTML, CSS, Node.js, .NET"/></a><br/>
+<a href="#02--technical-skills"><img width="520" src="https://skillicons.dev/icons?i=react,nextjs,threejs,express,vite,redux,tailwind,postgres,mongodb,redis,docker,git,linux&amp;theme=dark&amp;perline=13" alt="React, Next.js, Three.js, Express, Vite, Redux, Tailwind, PostgreSQL, MongoDB, Redis, Docker, Git, Linux"/></a>
 </p>
 <p align="center"><sub>SQL · PostGIS · EF Core · SignalR · Sequelize · Capacitor<br/>Podman · Railway · Cloudflare · JWT · Jest · Fedora</sub></p>
 
@@ -158,10 +158,10 @@ const zgAllin = {
 
 <table>
 <tr>
-<td width="25%" align="center"><img width="64" src="./assets/boxing.svg" alt="Boxing glove"/><br/><b>Boxing</b><br/><sub>Discipline</sub></td>
-<td width="25%" align="center"><img width="64" src="./assets/kickboxing.svg" alt="Kickboxing"/><br/><b>Kickboxing</b><br/><sub>Precision</sub></td>
-<td width="25%" align="center"><img width="64" src="./assets/music.svg" alt="Headphones"/><br/><b>Music</b><br/><sub>Expression</sub></td>
-<td width="25%" align="center"><img width="64" src="./assets/metal.svg" alt="Electric guitar"/><br/><b>Heavy Metal</b><br/><sub>Intensity</sub></td>
+<td width="25%" align="center"><img width="88" src="./assets/boxing.svg" alt="Boxing glove"/><br/><b>Boxing</b><br/><sub>Discipline</sub></td>
+<td width="25%" align="center"><img width="88" src="./assets/kickboxing.svg" alt="Kickboxing"/><br/><b>Kickboxing</b><br/><sub>Precision</sub></td>
+<td width="25%" align="center"><img width="88" src="./assets/music.svg" alt="Headphones"/><br/><b>Music</b><br/><sub>Expression</sub></td>
+<td width="25%" align="center"><img width="88" src="./assets/metal.svg" alt="Electric guitar"/><br/><b>Heavy Metal</b><br/><sub>Intensity</sub></td>
 </tr>
 </table>
 
