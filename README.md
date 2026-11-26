@@ -3,7 +3,7 @@
 
 <img src="./hero.svg" width="100%" alt="Ziad Abbas — zgAllin"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=2200&amp;color=71B5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Software+Engineering+%2F+Product+Development;Founder+%40+Zimos;Architecture.+Precision.+Execution." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=19&amp;duration=3200&amp;pause=2200&amp;color=71B5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Full-Stack+Software+Developer;Founder+%40+Zimos;Architecture.+Precision.+Execution." alt="Animated introduction"/>
 
 <p>
 <a href="https://zimos.co"><img width="42" src="./assets/zimos.svg" alt="Zimos"/></a>&nbsp;
@@ -13,7 +13,7 @@
 <a href="https://github.com/ziadabbas19"><img width="42" src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub"/></a>
 </p>
 
-**SOFTWARE DEVELOPER / FOUNDER / PRODUCT BUILDER**
+**FULL-STACK SOFTWARE DEVELOPER / FOUNDER / PRODUCT BUILDER**
 
 <a href="https://zimos.co">zimos.co</a> · <a href="mailto:ziadabbas27@gmail.com">Get in touch</a>
 
@@ -60,6 +60,8 @@
 
 </details>
 
+<p align="center"><img width="100%" src="./assets/divider.svg" alt=""/></p>
+
 ## 03 / Selected Work
 
 <table>
@@ -86,7 +88,22 @@
 </table>
 <p align="center"><a href="https://github.com/ziadabbas19?tab=repositories">Explore all repositories</a></p>
 
-## 04 / Engineering Focus
+### Product Showcase
+
+<p align="center"><a href="https://zimos.co"><b>Explore Zimos live</b></a> · <a href="https://github.com/ziadabbas19/zimos-frontend">Frontend</a> · <a href="https://github.com/ziadabbas19/original-pharma-crm">Explore the CRM</a></p>
+
+<!-- Optional: add real, redacted product screenshots here. See INSTALL.md in the download. -->
+
+## 04 / System Architecture
+
+<p align="center"><img width="100%" src="./assets/architecture.svg" alt="High-level architecture of Zimos and Original Pharma CRM"/></p>
+
+<p align="center"><sub>Architecture overview based on the project documentation, not a production topology audit.</sub></p>
+<p align="center"><a href="https://github.com/ziadabbas19/zimos#architecture">Zimos backend design</a> · <a href="https://github.com/ziadabbas19/original-pharma-crm/blob/main/docs/architecture.md">CRM architecture</a></p>
+
+<p align="center"><img width="100%" src="./assets/divider.svg" alt=""/></p>
+
+## 05 / Engineering Focus
 
 <table>
 <tr>
@@ -99,7 +116,31 @@
 **Currently building:** Zimos and enterprise software.  
 **Exploring:** distributed systems, scalable architecture and better developer workflows.
 
-## 05 / Beyond the Code
+## 06 / Currently Building & Exploring
+
+| Building | Exploring |
+|:---|:---|
+| Zimos — SaaS and commerce platform | Scalable architectures and distributed systems |
+| Enterprise applications and CRM | Backend performance and reliability |
+| Product workflows and developer tooling | Better deployment and testing practices |
+
+## 07 / Development Environment
+
+<p align="center"><img width="285" src="https://skillicons.dev/icons?i=linux,vscode,bash,git,postgres,docker&amp;theme=dark&amp;perline=6" alt="Linux, VS Code, Bash, Git, PostgreSQL, Docker"/></p>
+<p align="center"><b>Fedora Linux · KDE Plasma · VS Code · Bash</b></p>
+
+<details>
+<summary><b>Background & languages</b></summary>
+
+- Freelance full-stack development and small-team coordination.
+- B.Sc. Science — Industrial Applied Chemistry, Tanta University.
+- Arabic and English (B2–C1, self-assessed).
+
+</details>
+
+<p align="center"><img width="100%" src="./assets/divider.svg" alt=""/></p>
+
+## 08 / Beyond the Code
 
 ```typescript
 const zgAllin = {
@@ -113,6 +154,8 @@ const zgAllin = {
 };
 ```
 
+<div align="center">
+
 <table>
 <tr>
 <td width="25%" align="center"><img width="64" src="./assets/boxing.svg" alt="Boxing glove"/><br/><b>Boxing</b><br/><sub>Discipline</sub></td>
@@ -122,12 +165,39 @@ const zgAllin = {
 </tr>
 </table>
 
-## 06 / Development Activity
+</div>
+
+<p align="center"><img width="100%" src="./assets/divider.svg" alt=""/></p>
+
+## 09 / Developer Metrics
+
+<p align="center"><img width="100%" src="./assets/generated/metrics.svg" alt="Developer metrics and repository language usage"/></p>
+
+## 10 / Development Activity
 
 <p align="center"><a href="https://github.com/ziadabbas19"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ziadabbas19&amp;bg_color=101722&amp;color=91C5FF&amp;line=4F83FF&amp;point=E4F1FF&amp;area=true&amp;area_color=1E3A6D&amp;hide_border=true&amp;custom_title=Development%20Activity" alt="Contribution activity"/></a></p>
 <p align="center"><a href="https://github.com/ziadabbas19?tab=repositories">Repositories</a> · <a href="https://github.com/ziadabbas19">Contributions</a> · <a href="https://github.com/ziadabbas19?tab=followers">Followers</a></p>
 
----
+## 11 / Contribution Visuals
+
+<p align="center"><img width="100%" src="./assets/generated/contributions-3d.svg" alt="Isometric contribution calendar"/></p>
+
+<p align="center"><img width="100%" src="./assets/generated/snake.svg" alt="Animated contribution snake"/></p>
+
+<p align="center"><sub>Generated from GitHub-visible contribution data and refreshed daily by GitHub Actions.</sub></p>
+
+<p align="center"><img width="100%" src="./assets/divider.svg" alt=""/></p>
+
+## 12 / Establish Connection
+
+<p align="center">
+<a href="https://zimos.co"><img width="42" src="./assets/zimos.svg" alt="Zimos"/></a>&nbsp;
+<a href="mailto:ziadabbas27@gmail.com"><img width="42" src="https://skillicons.dev/icons?i=gmail&amp;theme=dark" alt="Email"/></a>&nbsp;
+<a href="https://x.com/ziadabbas19"><img width="42" src="./assets/x.svg" alt="X"/></a>&nbsp;
+<a href="https://instagram.com/ziadabbas19"><img width="42" src="https://skillicons.dev/icons?i=instagram&amp;theme=dark" alt="Instagram"/></a>&nbsp;
+<a href="https://github.com/ziadabbas19"><img width="42" src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="GitHub"/></a>
+</p>
+
 <div align="center">
 
 <img width="650" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=4500&amp;pause=2500&amp;color=71B5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=CREATE.+BREAK.+REBUILD.+EVOLVE.;ORDER+THROUGH+CHAOS.;ENGINEER+WITH+INTENT." alt="Animated signature"/>
